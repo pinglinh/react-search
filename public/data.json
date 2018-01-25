@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "title": "Learn to code",
+      "snippet": "testtesttesttesttesttesttesttesttesttesttest",
+      "url": "https://google.com"
+    },
+    {
+      "title": "React Saga",
+      "snippet": "testtesttesttesttesttesttesttesttesttesttest",
+      "url": "https://yahoo.com"
+    },
+    {
+      "title": "JavaScript Made Simple",
+      "snippet": "testtesttesttesttesttesttesttesttesttesttest",
+      "url": "https://facebook.com"
+    },
+    {
+      "title": "Ruby For Beginners",
+      "snippet": "testtesttesttesttesttesttesttesttesttesttest",
+      "url": "https://bbc.co.uk"
+    },
+    {
+      "title": "Learn Python the Easy Way",
+      "snippet": "testtesttesttesttesttesttesttesttesttesttest",
+      "url": "https://youtube.com"
+    }
+  ]
+}
